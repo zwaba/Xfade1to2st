@@ -1,5 +1,5 @@
 #  Xfade1to2st
-##  lv2 plugin utility , crossfade L R  in to 2 L R out
+##  lv2 plugin utility , crossfade L R  input to 2 L R outputs
 
 Two knobs parameter.
 
