@@ -17,9 +17,9 @@ A slight smoothing is implemented in order to avoid scale effects.
 Mod devices installation 
 
 • Copy the .lv2 plugin to your Mod: 
-
-/scp -rp <path to dm-GrainDelay.lv2> root@192.168.51.1:/root/.lv2/
-
+```
+scp -rp <path to dm-GrainDelay.lv2> root@192.168.51.1:/root/.lv2
+```
 • Enter password "mod"
 
 • Reboot Mod
