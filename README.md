@@ -5,8 +5,8 @@ Two knobs parameter.
 
 MIX:
 - mix the input to the two outputs
-- 
-Range :
+ 
+RANGE :
 - at 0 , when mix is in the middle position, the output gain is 0.5 x the input gain for each output.
 - at 1,  when mix is in the middle position, the output gain is 1x the input gain for each output. You can choose in between according to your needs. 
 
