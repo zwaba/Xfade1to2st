@@ -1,7 +1,7 @@
 #  Xfade1to2st
 ##  lv2 plugin utility , crossfade L R  input to 2 L R outputs
 
-Two knobs parameter.
+Two parameters.
 
 MIX:
 - mix the input to the two outputs
