@@ -83,7 +83,19 @@
         lv2:maximum 1 ;
     ] ;
 
-    rdfs:comment "Generated from Max gen~ and github.com/moddevices/max-gen-plugins" ;
+    rdfs:comment """
+lv2 plugin utility , crossfade L R input to 2 L R outputs
+Two parameters.
+
+MIX:
+
+mix the input to the two outputs
+RANGE :
+
+at 0 , when mix is in the middle position, the output gain is 0.5 x the input gain for each output.
+at 1, when mix is in the middle position, the output gain is 1x the input gain for each output. You can choose in between according to your needs.
+A slight smoothing is implemented in order to avoid scale effects
+""" ;
 
     mod:brand "zwabo" ;
     mod:label "Xfade1to2st" ;
